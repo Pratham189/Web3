@@ -1,0 +1,22 @@
+/* Home.css */
+.custom-container {
+    padding: 20px;
+  }
+  
+  .search-bar {
+    margin-bottom: 20px;
+  }
+  
+  .custom-card {
+    background-color: #f9f9f9; /* Update to your preferred color */
+    border: 1px solid #ddd; /* Update to your preferred color */
+  }
+  
+  .custom-card-title {
+    color: #333; /* Update to your preferred color */
+  }
+  
+  .custom-card-description {
+    color: #666; /* Update to your preferred color */
+  }
+  
